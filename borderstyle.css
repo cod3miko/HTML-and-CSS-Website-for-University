@@ -1,0 +1,35 @@
+/*
+Name: Michael Shohdy
+Course: 443
+Assignment:#1
+*/
+
+body{
+}
+table{
+    border-style: dotted;
+    border-width: 6px;
+    border-color: navy;
+    text-align: center;
+    width:500px;
+    margin-left:17%;
+    margin-top:3%;
+}
+td{
+    color:black; 
+    font-family:arial;
+    font-style:italic;
+}
+a:link{
+    color:blue;
+    font-style:italic;
+    font-family: arial
+
+
+}
+a:visited{
+    color:white;
+    font-weight:bold;
+    font-family: arial;
+
+}
